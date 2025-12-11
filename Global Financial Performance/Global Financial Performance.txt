@@ -1,0 +1,3 @@
+Project Goal
+
+To build an interactive, executive-level dashboard that analyzes sales, profit, and cost of goods sold (COGS) performance across different Segments, Countries, and Products over time, enabling stakeholders to quickly identify top performers, underperforming areas, and trends.
